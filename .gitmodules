@@ -1,0 +1,18 @@
+[submodule "Odev1"]
+	path = Odev1
+	url = https://github.com/ramazanerdem/Practicum_Odev1.git
+[submodule "Odev2"]
+	path = Odev2
+	url = https://github.com/ramazanerdem/Practicum_Odev2.git
+[submodule "Odev3"]
+	path = Odev3
+	url = https://github.com/ramazanerdem/Practicum_Odev3.git
+[submodule "Odev4"]
+	path = Odev4
+	url = https://github.com/ramazanerdem/Practicum_Odev4.git
+[submodule "Odev5"]
+	path = Odev5
+	url = https://github.com/ramazanerdem/Practicum_Odev5.git
+[submodule "Odev6"]
+	path = Odev6
+	url = https://github.com/ramazanerdem/Practicum_Odev6.git

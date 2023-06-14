@@ -1,0 +1,874 @@
+[
+  {
+    "id": 631,
+    "name": "Stardust",
+    "slug": "631-stardust",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 85,
+      "speed": 100,
+      "durability": 110,
+      "power": 100,
+      "combat": 85
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": null,
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "-",
+      "hairColor": "-"
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Entity Lambda-Zero"],
+      "placeOfBirth": "-",
+      "firstAppearance": "-",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "Herald of Galactus", "base": "-" },
+    "connections": {
+      "groupAffiliation": "Heralds of Galactus ; Formerly United Front",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/631-stardust.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/631-stardust.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/631-stardust.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/631-stardust.jpg"
+    }
+  },
+  {
+    "id": 589,
+    "name": "She-Hulk",
+    "slug": "589-she-hulk",
+    "powerstats": {
+      "intelligence": 81,
+      "strength": 100,
+      "speed": 42,
+      "durability": 100,
+      "power": 40,
+      "combat": 70
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": ["6'7", "201 cm"],
+      "weight": ["700 lb", "315 kg"],
+      "eyeColor": "Green",
+      "hairColor": "Green"
+    },
+    "biography": {
+      "fullName": "Jennifer Walters",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Jade Giantess"],
+      "placeOfBirth": "Los Angeles, California",
+      "firstAppearance": "She-Hulk (Vol. 1) #1",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Lawyer, Magistra of the Living Tribunal",
+      "base": "Law offices of Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers Mansion; Baxter Building, Four Freedoms Plaza"
+    },
+    "connections": {
+      "groupAffiliation": "Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers, Fantastic Four, Heroes for Hire",
+      "relatives": "Bruce Banner (Hulk, cousin)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/589-she-hulk.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/589-she-hulk.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/589-she-hulk.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/589-she-hulk.jpg"
+    }
+  },
+  {
+    "id": 517,
+    "name": "Phoenix",
+    "slug": "517-phoenix",
+    "powerstats": {
+      "intelligence": 100,
+      "strength": 100,
+      "speed": 83,
+      "durability": 100,
+      "power": 100,
+      "combat": 80
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Mutant",
+      "height": ["5'6", "168 cm"],
+      "weight": ["115 lb", "52 kg"],
+      "eyeColor": "Green",
+      "hairColor": "Red"
+    },
+    "biography": {
+      "fullName": "Jean Grey",
+      "alterEgos": "Jean Grey, White Phoenix of The Crown",
+      "aliases": ["Redd Dayspring", "Marvel Girl"],
+      "placeOfBirth": "-",
+      "firstAppearance": "X-Men #1 (September, 1963)",
+      "publisher": "Jean Grey",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Adventurer",
+      "base": "Xavier Institute of Higher Learning, Westchester County, New York"
+    },
+    "connections": {
+      "groupAffiliation": "Formerly X-Men (founding member); Clan Rebellion, Muir Island X-Men; X-Factor/X-Terminators (founding member); Brides of Set",
+      "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/517-phoenix.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/517-phoenix.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/517-phoenix.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/517-phoenix.jpg"
+    }
+  },
+  {
+    "id": 449,
+    "name": "Micah Sanders",
+    "slug": "449-micah-sanders",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 8,
+      "speed": 12,
+      "durability": 14,
+      "power": 57,
+      "combat": 14
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": null,
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "Brown",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Micah Sanders",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["MicahSanders500"],
+      "placeOfBirth": "-",
+      "firstAppearance": "-",
+      "publisher": "NBC - Heroes",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Elementary school student",
+      "base": "New Orleans, LA"
+    },
+    "connections": {
+      "groupAffiliation": "-",
+      "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/449-micah-sanders.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/449-micah-sanders.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/449-micah-sanders.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/449-micah-sanders.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Adam Monroe",
+    "slug": "7-adam-monroe",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 10,
+      "speed": 12,
+      "durability": 100,
+      "power": 100,
+      "combat": 64
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": null,
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Blond"
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Takezo Kensei", "Richard Sanders"],
+      "placeOfBirth": "-",
+      "firstAppearance": "Heroes S02E01 - Four Months Later…",
+      "publisher": "NBC - Heroes",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
+      "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+    },
+    "connections": { "groupAffiliation": "-", "relatives": "-" },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/7-adam-monroe.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/7-adam-monroe.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/7-adam-monroe.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/7-adam-monroe.jpg"
+    }
+  },
+  {
+    "id": 350,
+    "name": "Jack of Hearts",
+    "slug": "350-jack-of-hearts",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 55,
+      "speed": 100,
+      "durability": 30,
+      "power": 77,
+      "combat": 30
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["5'1", "155 cm"],
+      "weight": ["175 lb", "79 kg"],
+      "eyeColor": "Blue / White",
+      "hairColor": "Brown"
+    },
+    "biography": {
+      "fullName": "Jonathan Hart",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["-"],
+      "placeOfBirth": "New Haven, Connecticut",
+      "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "Adventurer", "base": "Avengers Mansion" },
+    "connections": {
+      "groupAffiliation": "Avengers, Defenders for a Day",
+      "relatives": "Philip (father, deceased), Marie (mother)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/350-jack-of-hearts.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/350-jack-of-hearts.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/350-jack-of-hearts.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/350-jack-of-hearts.jpg"
+    }
+  },
+  {
+    "id": 716,
+    "name": "Wolfsbane",
+    "slug": "716-wolfsbane",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 16,
+      "speed": 35,
+      "durability": 42,
+      "power": 26,
+      "combat": 42
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": null,
+      "height": ["12'", "366 cm"],
+      "weight": ["1050 lb", "473 kg"],
+      "eyeColor": "Green",
+      "hairColor": "Auburn"
+    },
+    "biography": {
+      "fullName": "Rahne Sinclair",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Grimfang", "Mutate #490"],
+      "placeOfBirth": "Somewhere in Ross and Cromarty, Scotland",
+      "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Teacher",
+      "base": "(current) X-Factor Investigations, New York City (former)Professor Xavier's School of Gifted Youngsters, Salem Center, Westchester County, New York; Muir Island, Scotland; X-Factor headquarters, Embassy Row, Washington, D.C.; X-Factor Headquarters, New Yo"
+    },
+    "connections": {
+      "groupAffiliation": "(current) X-Factor Investigations, (former) X-Factor, New Mutants, Hellions, Excalibur",
+      "relatives": "Reverand Craig (father), Moira MacTaggert (surrogate mother, deceased)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/716-wolfsbane.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/716-wolfsbane.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/716-wolfsbane.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/716-wolfsbane.jpg"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Bushido",
+    "slug": "144-bushido",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 10,
+      "speed": 8,
+      "durability": 10,
+      "power": 19,
+      "combat": 70
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "-",
+      "hairColor": "-"
+    },
+    "biography": {
+      "fullName": "Ryuko Orsono",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["-"],
+      "placeOfBirth": "-",
+      "firstAppearance": "Titans: Secret Files & Origins #2",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": { "groupAffiliation": "Teen Titans", "relatives": "-" },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/144-bushido.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/144-bushido.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/144-bushido.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/144-bushido.jpg"
+    }
+  },
+  {
+    "id": 587,
+    "name": "Shang-Chi",
+    "slug": "587-shang-chi",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 12,
+      "speed": 30,
+      "durability": 50,
+      "power": 29,
+      "combat": 100
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["5'10", "178 cm"],
+      "weight": ["175 lb", "79 kg"],
+      "eyeColor": "Brown",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Shang-Chi",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
+      ],
+      "placeOfBirth": "-",
+      "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "MI-5, MI-6, \"Marvel Knights\", Heroes For Hire, Freelance Restorations, Si-Fan, Secret Avengers",
+      "relatives": "Fu Manchu, father; unnamed mother; Fah Lo Suee, (half-sister); Whispering Shadow (half-brother, deceased)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/587-shang-chi.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/587-shang-chi.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/587-shang-chi.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/587-shang-chi.jpg"
+    }
+  },
+  {
+    "id": 575,
+    "name": "Savage Dragon",
+    "slug": "575-savage-dragon",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 70,
+      "speed": 54,
+      "durability": 85,
+      "power": 66,
+      "combat": 72
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": null,
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "-",
+      "hairColor": "-"
+    },
+    "biography": {
+      "fullName": "Kurr",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["-"],
+      "placeOfBirth": "-",
+      "firstAppearance": "-",
+      "publisher": "Image Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "Liberty League, Chicago Police Department, Special Operations Strikeforce (S.O.S.)",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/575-savage-dragon.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/575-savage-dragon.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/575-savage-dragon.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/575-savage-dragon.jpg"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Captain Marvel",
+    "slug": "156-captain-marvel",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 100,
+      "speed": 88,
+      "durability": 95,
+      "power": 100,
+      "combat": 75
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["6'4", "193 cm"],
+      "weight": ["225 lb", "101 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Billy Batson",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "The World's Mightiest Mortal",
+        "The Big Red Cheese",
+        "Captain Thunder",
+        "Shazam"
+      ],
+      "placeOfBirth": "Fawcett City, United States",
+      "firstAppearance": "Whiz Comics no. 2 (1940)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "Marvel Family, Justice Society of America",
+      "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/156-captain-marvel.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/156-captain-marvel.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/156-captain-marvel.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/156-captain-marvel.jpg"
+    }
+  },
+  {
+    "id": 539,
+    "name": "Rachel Pirzad",
+    "slug": "539-rachel-pirzad",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 4,
+      "speed": 8,
+      "durability": 10,
+      "power": 52,
+      "combat": 10
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Alpha",
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "-",
+      "hairColor": "-"
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["-"],
+      "placeOfBirth": "-",
+      "firstAppearance": "-",
+      "publisher": "SyFy",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": { "groupAffiliation": "Alphas", "relatives": "-" },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/539-rachel-pirzad.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/539-rachel-pirzad.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/539-rachel-pirzad.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/539-rachel-pirzad.jpg"
+    }
+  },
+  {
+    "id": 600,
+    "name": "Simon Baz",
+    "slug": "600-simon-baz",
+    "powerstats": {
+      "intelligence": 56,
+      "strength": 90,
+      "speed": 42,
+      "durability": 55,
+      "power": 100,
+      "combat": 60
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["-", "0 cm"],
+      "weight": ["- lb", "0 kg"],
+      "eyeColor": "Bown",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Simoon Baz",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Green Lantern", "White Lantern"],
+      "placeOfBirth": "Dearborn, Michigan",
+      "firstAppearance": "The New 52: FCBD Special Edition #1 (June, 2012)",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "-",
+      "relatives": "Sira Baz (sister), Farid Amar (nephew), Nazir Amar (brother in-law)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/600-simon-baz.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/600-simon-baz.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/600-simon-baz.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/600-simon-baz.jpg"
+    }
+  },
+  {
+    "id": 726,
+    "name": "Yellowjacket",
+    "slug": "726-yellowjacket",
+    "powerstats": {
+      "intelligence": 88,
+      "strength": 10,
+      "speed": 12,
+      "durability": 28,
+      "power": 12,
+      "combat": 14
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["6'", "183 cm"],
+      "weight": ["185 lb", "83 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Blond"
+    },
+    "biography": {
+      "fullName": "Hank Pym",
+      "alterEgos": "Ant-Man, Giant-Man, Goliath, Wasp II",
+      "aliases": ["Hank Pym"],
+      "placeOfBirth": "Elmsford, New York",
+      "firstAppearance": "(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",
+      "publisher": "Ant-Man",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
+      "base": "Avengers Mansion, New York City, New York, (formerly)Avengers Compound, Los Angeles, California"
+    },
+    "connections": {
+      "groupAffiliation": "The Avengers, The West Coast Avengers, Secret Defenders",
+      "relatives": "Maria Trovaya (first wife, deceased), Janet Van Dyne a.k.a. The Wasp (second wife, divorced), Ultron (creation, \"son\"), Jocasta (\"first daughter-in-law\"), Alkhema (\"second daughter-in-law\"), Vision (\"grandson\"), Scarlet Witch (former granddaughter-in-law), Victor Mancha (\"grandson\")"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/726-yellowjacket.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/726-yellowjacket.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/726-yellowjacket.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/726-yellowjacket.jpg"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Domino",
+    "slug": "227-domino",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 10,
+      "speed": 27,
+      "durability": 28,
+      "power": 49,
+      "combat": 74
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": ["5'8", "173 cm"],
+      "weight": ["120 lb", "54 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Neena Thurman",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "Dom",
+        "Samantha Wu",
+        "Tamara Winter",
+        "Elena Vladescu",
+        "Jessica Marie Costello",
+        "Luisa Mendoza",
+        "Beatrice",
+        "Christina Elizabeth Alioso",
+        "Priscilla Sutherland",
+        "Hope Eldridge"
+      ],
+      "placeOfBirth": "Project: Armageddon base, Everglades, Florida",
+      "firstAppearance": "X-Force #8 (March, 1992)",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "X-Men; formerly X-Force; 198; X-Corporation; The Underground; X-Force; Six Pack",
+      "relatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/227-domino.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/227-domino.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/227-domino.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/227-domino.jpg"
+    }
+  },
+  {
+    "id": 305,
+    "name": "Guy Gardner",
+    "slug": "305-guy-gardner",
+    "powerstats": {
+      "intelligence": 38,
+      "strength": 90,
+      "speed": 53,
+      "durability": 64,
+      "power": 100,
+      "combat": 64
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human-Vuldarian",
+      "height": ["6'2", "188 cm"],
+      "weight": ["210 lb", "95 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Red"
+    },
+    "biography": {
+      "fullName": "Guy Gardner",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["Green Lantern", "Red Lantern", "Warrior"],
+      "placeOfBirth": "Baltimore, Maryland",
+      "firstAppearance": "Green Lantern Vol 2 #59",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Former High School gym teacher; former bar owner; currently Honor guard of the Green Lantern Corps",
+      "base": "Formerly New York City; currently Oa"
+    },
+    "connections": {
+      "groupAffiliation": "Green Lantern Corps, Formerly Justice League of America",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/305-guy-gardner.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/305-guy-gardner.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/305-guy-gardner.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/305-guy-gardner.jpg"
+    }
+  },
+  {
+    "id": 692,
+    "name": "Vibe",
+    "slug": "692-vibe",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 10,
+      "speed": 17,
+      "durability": 30,
+      "power": 99,
+      "combat": 30
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["5'10", "178 cm"],
+      "weight": ["157 lb", "71 kg"],
+      "eyeColor": "Brown",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Cisco Ramon",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["-"],
+      "placeOfBirth": "-",
+      "firstAppearance": "The New 52: FCBD Special Edition #1",
+      "publisher": "DC Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "-",
+      "relatives": "Rapture (Armando Ramon, brother), Dante Ramon (brother)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/692-vibe.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/692-vibe.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/692-vibe.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/692-vibe.jpg"
+    }
+  },
+  {
+    "id": 415,
+    "name": "Longshot",
+    "slug": "415-longshot",
+    "powerstats": {
+      "intelligence": 50,
+      "strength": 10,
+      "speed": 27,
+      "durability": 10,
+      "power": 71,
+      "combat": 70
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Human",
+      "height": ["6'2", "188 cm"],
+      "weight": ["80 lb", "36 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Blond"
+    },
+    "biography": {
+      "fullName": "",
+      "alterEgos": "No alter egos found.",
+      "aliases": ["The Lost Messiah", "The Lucky One"],
+      "placeOfBirth": "-",
+      "firstAppearance": "Longshot #1 (September, 1985)",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "freedom fighter, stuntman rebel, adventurer",
+      "base": "X-Factor Investigations Headquarters, New York City, New York; formerly Detroit, Michigan; mobile; Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York; Mojoverse; Cooterman's Creek, Australian Outback, Australia; Alcatraz I"
+    },
+    "connections": {
+      "groupAffiliation": "X-Factor Investigations; rebel forces on his homeworld; formerly Exiles; X-Men",
+      "relatives": "Arize (creator), Alison Blaire (Dazzler) (wife), Gaveedra Seven (Shatterstar) (alleged son)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/415-longshot.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/415-longshot.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/415-longshot.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/415-longshot.jpg"
+    }
+  },
+  {
+    "id": 696,
+    "name": "Violet Parr",
+    "slug": "696-violet-parr",
+    "powerstats": {
+      "intelligence": 56,
+      "strength": 9,
+      "speed": 13,
+      "durability": 50,
+      "power": 79,
+      "combat": 15
+    },
+    "appearance": {
+      "gender": "Female",
+      "race": "Human",
+      "height": ["4'6", "137 cm"],
+      "weight": ["90 lb", "41 kg"],
+      "eyeColor": "Violet",
+      "hairColor": "Black"
+    },
+    "biography": {
+      "fullName": "Violet Parr",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "Vi (nickname)",
+        "The Queen of the Unseen",
+        "Invisagirl (InvisaVi)"
+      ],
+      "placeOfBirth": "-",
+      "firstAppearance": "The Incredibles (Movies, 2004)",
+      "publisher": "Dark Horse Comics",
+      "alignment": "good"
+    },
+    "work": { "occupation": "-", "base": "-" },
+    "connections": {
+      "groupAffiliation": "Incredible Family, National Supers Agency",
+      "relatives": "Robert Parr (Mr Incredible, father), Helen Parr (Elastigirl, mother), Dashiel Parr(Dash, brother), Jack-jack (brother)"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/696-violet-parr.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/696-violet-parr.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/696-violet-parr.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/696-violet-parr.jpg"
+    }
+  },
+  {
+    "id": 325,
+    "name": "Hercules",
+    "slug": "325-hercules",
+    "powerstats": {
+      "intelligence": 63,
+      "strength": 100,
+      "speed": 46,
+      "durability": 85,
+      "power": 89,
+      "combat": 100
+    },
+    "appearance": {
+      "gender": "Male",
+      "race": "Demi-God",
+      "height": ["6'5", "196 cm"],
+      "weight": ["325 lb", "146 kg"],
+      "eyeColor": "Blue",
+      "hairColor": "Brown"
+    },
+    "biography": {
+      "fullName": "Heracles",
+      "alterEgos": "No alter egos found.",
+      "aliases": [
+        "Spider-Herc",
+        "The Lion of Olympus",
+        "The Defender of Olympus",
+        "The Scion of Olympus",
+        "Prince of Power",
+        "Alcaeus",
+        "Herakles",
+        "Herc",
+        "Harry Cleese",
+        "Victor Tegler",
+        "Agent 74"
+      ],
+      "placeOfBirth": "Thebes, Greece",
+      "firstAppearance": "-",
+      "publisher": "Marvel Comics",
+      "alignment": "good"
+    },
+    "work": {
+      "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
+      "base": "Brooklyn; formerly Infinite Avengers Mansion, Mount Olympus, Avengers Mansion, Hydrobase"
+    },
+    "connections": {
+      "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
+      "relatives": "-"
+    },
+    "images": {
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/325-hercules.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/325-hercules.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/325-hercules.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/325-hercules.jpg"
+    }
+  }
+]
